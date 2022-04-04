@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(173, 92, 173);
+}
+.titulo {
+    text-align: center;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.name-label{
+    color: yellow;
+}
